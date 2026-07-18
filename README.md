@@ -12,12 +12,9 @@
 ![](https://streak-stats.demolab.com/?user=AvgLucer&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AvgLucer&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-<marquee behavior="scroll" direction="left" scrollamount="6">
-
-#Python 🐍 • #JavaScript ⚡ • #HTML 🌐 • #CSS 🎨 • #Pandas 📊 • #Git 🌿 • #GitHub 🚀 • #OpenSource ❤️ • #Building 🛠️ • #Learning 📚 • #CLI 💻 • #Automation ⚙️ • #AI 🤖 • #DataScience 📈 • #Linux 🐧 • #Projects 💡
-
-</marquee>
+<p align="center">
+  <img src="gif.gif" alt="Animated Banner" width="100%">
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AvgLucer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
