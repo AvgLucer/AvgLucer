@@ -13,6 +13,10 @@
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=AvgLucer&theme=shadow)
 
 <p align="center">
+  <img src="stat.png" alt="Stats Banner" width="100%">
+</p>
+
+<p align="center">
   <img src="gif.gif" alt="Animated Banner" width="100%">
 </p>
 
