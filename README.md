@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AvgLucer&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AvgLucer&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AvgLucer&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=AvgLucer&theme=shadow)
 
 <p align="center">
   <img src="gif.gif" alt="Animated Banner" width="100%">
