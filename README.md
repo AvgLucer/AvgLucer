@@ -22,6 +22,5 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AvgLucer&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Pull Shark](https://img.shields.io/badge/GitHub-Pull%20Shark-blue?logo=github)](https://github.com/AvgLucer)
+[![Quickdraw](https://img.shields.io/badge/GitHub-Quickdraw-blue?logo=github)](https://github.com/AvgLucer)
