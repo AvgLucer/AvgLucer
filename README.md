@@ -70,7 +70,7 @@
 ## 📈 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-animation-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-animation.svg" />
   <img alt="AvgLucer's Contribution Animation" src="github-contribution-animation.svg" />
 </picture>
 
