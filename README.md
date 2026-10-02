@@ -74,11 +74,7 @@
   <img alt="AvgLucer's Contribution Animation" src="github-contribution-animation.svg" />
 </picture>
 
-## 🛰️ GitHub Statistics
-
-<img src="statistics.png" alt="GitHub Statistics" width="100%">
-
----
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Past%20Within%20Future%3B&theme=dark&color=%231c9b4d&particleColor=%23000000&background=%234b5058)
 
 ## 🏆 Achievements
 
